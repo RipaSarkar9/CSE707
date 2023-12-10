@@ -2,15 +2,14 @@
 https://www.overleaf.com/9646775957pgwmndsfkvrz#2e64d7
 
 Link to unlisted YouTube video:
-
+https://www.youtube.com/watch?v=Qhp3wnROUjg
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1HYuIx0b9FGbicrxdY16T0dtQzdLdEFIhWnR2Cn-6gR8/edit?usp=sharing
 
 
 Paper title:
-Project Title: Enhanced Calorie Estimation of Solid Foods using Federated Learning and YOLO Models: A Distributed Approach for Collaborative Caloric Data Analysis
-
+Calorie Estimation of Solid Food Using Machine Learning with YOLO Models
 
 Group Number: 12
 
