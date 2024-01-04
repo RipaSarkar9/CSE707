@@ -19,3 +19,4 @@ Group Number: 12
 Individual Submitter:
 23366009 Ripa Sarkar
 
+I also correctly uploaded slide.PPT and report.PDF here.
